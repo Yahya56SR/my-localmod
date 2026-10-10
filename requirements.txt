@@ -5,3 +5,4 @@ transformers>=4.38.2
 datasets>=2.18.0
 scikit-learn>=1.4.1
 pydantic>=2.6.4
+pandas>=2.2.1
