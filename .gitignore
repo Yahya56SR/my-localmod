@@ -8,5 +8,4 @@ build/
 venv/
 data/
 results/
-darija_moderator_model/
 .env
