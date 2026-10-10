@@ -14,7 +14,7 @@ image = (
 )
 
 
-@app.cls(image=image, gpu="T4", scaledown_window=300)
+@app.cls(image=image, scaledown_window=300)
 class ModerationModel:
     @modal.enter()
     def load_model(self):

@@ -7,3 +7,4 @@ scikit-learn>=1.4.1
 pydantic>=2.6.4
 pandas>=2.2.1
 requests>=2.31.0
+modal>=0.62.0
